@@ -22,6 +22,7 @@ As imagens dos rostos são armazenadas em um banco SQLite como BLOBs e um modelo
 
 ## 📦 Requisitos
  - Necessário ter o pipenv instalado
+   
 Instale os pacotes necessários com:
 
 ```bash
